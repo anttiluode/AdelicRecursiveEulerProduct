@@ -1,0 +1,2 @@
+# AdelicRecursiveEulerProduct
+Top secret. 
