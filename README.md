@@ -26,8 +26,8 @@ claimed σ²=0.136 equals the "GUE theoretical value" — that is incorrect.
 The GUE Wigner surmise variance is 0.178. The 0.136 is a genuine stable
 attractor of *this specific construction*, not an exact match to GUE.
 
-![Spacing distribution](benchmark_output/spacing_distribution.png)
-![Level evolution](benchmark_output/level_evolution.png)
+![Spacing distribution](spacing_distribution.png)
+![Level evolution](level_evolution.png)
 
 ---
 
